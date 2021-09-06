@@ -1,0 +1,12 @@
+{
+"2001":{"name":"Cadbury Diary Milk","qty":"45","pr":"10","mfg":"09/21","exp":"03/22"},
+"2002":{"name":"Cadbury Five Star","qty":"78","pr":"15","mfg":"06/21","exp":"12/21"},
+"2003":{"name":"Snickers","qty":"85","pr":"20","mfg":"04/21","exp":"09/21"},
+"2004":{"name":"Milano","qty":"25","pr":"30","mfg":"10/21","exp":"03/22"},
+"2005":{"name":"Choco Fudge Ice Cream","qty":"45","pr":"10","mfg":"09/21","exp":"03/22"},
+"2006":{"name":"Choco Brownie Cake","qty":"35","pr":"230","mfg":"19/09/21","exp":"22/09/22"},
+"2007":{"name":"Bourbon","qty":"98","pr":"35","mfg":"09/21","exp":"03/22"},
+"2008":{"name":"White Chocolate Cake","qty":"19","pr":"405","mfg":"21/09/21","exp":"25/09/22"},
+"2009":{"name":"Cornetto Butter Scotch","qty":"25","pr":"10","mfg":"09/21","exp":"12/21"},
+"2010":{"name":"Black Forest Cake","qty":"10","pr":"310","mfg":"21/09/21","exp":"24/09/21"}
+}
